@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ツ
 
 <!--
 **vincedbowen/vincedbowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a senior at the University of Colorado Boulder, and will be graduating with both a Bachelor of Science and a Master of Science in Computer Science in May 2026.
+
+Currently, I am extremely passionate about using technology and software to solve challenges in our healthcare and medical system. I just completed an internship at The Cigna Group, where I had the opportunity to work on exactly that!
+
+During my free time, I enjoy cycling, getting outdoors, and listening to music!
