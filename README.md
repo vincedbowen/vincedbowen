@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello ツ 
-
 I am a graduate student at the University of Colorado Boulder, studying Biomedical Engineering. This past spring, I graduated with a B.S. in Computer Science.
 
 Currently, I am extremely passionate about using technology and software to solve challenges in our healthcare and medical system. I'm interning at The Cigna Group, where I have the opportunity to work on exactly that!
